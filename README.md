@@ -1,9 +1,14 @@
 # Arduino-Elevator
 Arduino Elevator using
+
 -arduino uno,
+
 -2 motor drive modules l298n 
+
 -Bluetooth module hc-06
+
 -2 powerful motors with metal gearboxes (each motor uses the 2 channels of each motor drive for more current)
+
 -fishing wires
 
 the mobile app is made by MIT app inventor platform
