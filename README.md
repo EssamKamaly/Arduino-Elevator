@@ -1,7 +1,7 @@
 # Arduino-Elevator
 Arduino Elevator using
 -arduino uno,
--2 motor drive modules l298n
+-2 motor drive modules l298n (each motor uses the 2 channels of each motor drive for more current)
 -Bluetooth module hc-06
 -2 powerful motors with metal gearboxes
 -fishing wires
